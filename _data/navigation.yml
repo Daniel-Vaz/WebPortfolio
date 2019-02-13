@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Arquivo"
+    url: /categories/
+  - title: "Projetos"
+    url: /projetos/
+
+arquivo:
+  - title: "Projetos"
+    url: /categories/#projetos
+  - title: "Informativos"
+    url: /categories/#informativos
+
+
+# Exemplos:
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

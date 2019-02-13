@@ -1,0 +1,91 @@
+---
+layout: single
+title:  "Documentação para o RHCSA7"
+date:   2019-02-04 10:00:00
+categories: [projetos]
+excerpt: 'Partilha de conhecimentos em Português, para um dos certificados mais procurados em Administração de Sistemas'
+header:
+  image: /assets/thumb_book.jpg
+  show_overlay_excerpt: false
+  teaser: "https://media.giphy.com/media/1xP5O0uVR6J2okihOY/source.gif"
+---
+
+<br/>
+
+{: .text-center}
+Com mais de 50 Tópicos diferentes, um dos certificados mais procurados na área de Administração de Sistemas é o introdutório RHCSA da [Red Hat](https://www.redhat.com/pt-br), sendo que por vezes sentimos-nos desorientados sem saber por onde começar a estudar.
+
+<br/>
+
+{: .text-center}
+# Red Hat Certified System Administrator
+
+<br/>
+
+{: .text-justify}
+Desenvolvido e sustentado pela gigante Red Hat, este exame prepara qualquer profissional para saber lidar com as tarefas gerais de administração de sistemas de base Linux, particularmente derivados da distribuição [RHEL](https://www.redhat.com/pt-br/technologies/linux-platforms/enterprise-linux).
+
+<br/>
+
+{: .text-center}
+> As habilidades testadas neste exame são a base de administração do sistema em todos os produtos Red Hat. Uma certificação RHCSA é obtida quando um profissional de TI demonstra as principais habilidades de administração de sistemas exigidas em ambientes do Red Hat Enterprise Linux.
+<cite>Red Hat</cite>
+
+<br/>
+
+{: .text-justify}
+Tendo eu um vasto interesse nesta mesma área ingressei eu próprio nesta mesma certificação, de forma a solidificar todos os meus conhecimentos na vertente Linux.
+
+{: .text-justify}
+Rapidamente comecei a deparar-me com alguns desfazeados e incompletos recursos online de apoio ao estudo para este certificado, contudo poucos eram aqueles que continham informação pertinente e muitos menos eram aqueles que estavam em português.
+
+{: .text-justify}
+Passando por esta prespetiva, decidi começar a estruturar a minha própria documentação para todos os tópicos referidos como essenciais a dominar para poder passar confiantemente neste exame. Note-se que forcei-me sempre a sustentar a minha pesquisa marioritariamente pela [Documentação Official](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/) providenciada pela própria Red Hat, sendo esta a mais figdigna no que toca a este mesmo tópico.
+
+<br/>
+<br/>
+
+{: .text-center}
+# A minha Documentação
+
+<br/>
+
+{: .text-justify}
+Tendo como principal foco os tópicos definidos nos critérios para o exame, decidi começar a juntar o máximo de informação pertinente para a se poder conhecer de forma global todos os requisitos impostos.
+
+{: .text-justify}
+Comecei inicialmente a construir um *.pdf* que suportaria todos os capitulos necessários. Contudo rápidamente este ficheiro foi crescendo ao ponto que mais se tornaria um Livro, do que uma rapida referência para se perceber as generalidades de algum tópico em duvida.
+
+{: .text-justify}
+Com esta dificuldade em mente, comecei a procurar online soluções que me permitissem controlar e ir manipulando este tipo de documentação, sendo que uma das plataformas que rápidamente despertou o meu interesse foi o [GitBook](https://www.gitbook.com/).
+
+<br/>
+
+## GitBook
+
+<br/>
+
+{: .text-center}
+O GitBook, tal como o nome pode desde logo sugerir, é uma plataforma de controlo de verssionamento e repositórios, contudo para Documentação.
+
+{: .text-justify}
+Toma uma abordagem semelhante ao GitHub/GitLab/BitBucket tornando mais prático ir se adicionando informação a um determinado projeto quer seja de forma individual ou em equipa.
+
+{: .text-justify}
+Outro promenore que se destaca no GitBook é a sua facil perssonalização de conteudos tendo uma abordagem prática a nível de formatação de vários tipos de conteudos a serem colocados numa qualquer página.
+
+
+<br/>
+<br/>
+
+{: .text-center}
+# Conclusão
+
+<br/>
+
+Em tom final, deixo abaixo o link da minha página no GitBook, onde o leitor poderá encontrar toda a informação pertinente sobre os diferentes tópcios para o exame. Espero que com este material facilite a introdução dos mesmos a qualquer um que procure um auxciliar.
+
+{: .text-center}
+<a href="https://dafivaz.gitbook.io/rhcsa7-prep/" class="btn btn--inverse">Documentação</a>
+
+<br/>
