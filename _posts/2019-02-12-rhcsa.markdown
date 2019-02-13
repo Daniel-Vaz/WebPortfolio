@@ -22,6 +22,10 @@ Com mais de 50 Tópicos diferentes, um dos certificados mais procurados na área
 
 <br/>
 
+{% include figure image_path="https://znpy.files.wordpress.com/2018/07/rhcsa1.jpg?w=400&h=198&crop=1"%}
+
+<br/>
+
 {: .text-justify}
 Desenvolvido e sustentado pela gigante Red Hat, este exame prepara qualquer profissional para saber lidar com as tarefas gerais de administração de sistemas de base Linux, particularmente derivados da distribuição [RHEL](https://www.redhat.com/pt-br/technologies/linux-platforms/enterprise-linux).
 
@@ -63,7 +67,7 @@ Com esta dificuldade em mente, comecei a procurar online soluções que me permi
 
 ## GitBook
 
-<br/>
+{% include figure image_path="https://www.nicepng.com/png/detail/321-3210441_gitbook-logo.png"%}
 
 {: .text-center}
 O GitBook, tal como o nome pode desde logo sugerir, é uma plataforma de controlo de verssionamento e repositórios, contudo para Documentação.
