@@ -10,10 +10,11 @@ header:
   teaser: "https://media.giphy.com/media/55cTEgOSm6A2sVj41L/source.gif"
 ---
 
+
 <br/>
 
 {: .text-center}
-Passamos por tempos em que possuimos as ferramentas, que ultrapassavam a mais ampla imaginação de qualquer um dos nossos antecessores.
+Passamos por tempos em que possuímos as ferramentas, que ultrapassavam a mais ampla imaginação de qualquer um dos nossos antecessores.
 
 <br/>
 
@@ -23,10 +24,10 @@ Passamos por tempos em que possuimos as ferramentas, que ultrapassavam a mais am
 <br/>
 
 {: .text-justify}
-Revolucionando a maneira como o ser humano passou a comunicar, o surgimento das redes por *IP* e a massiva adaptação do protocolo *TCP* para suportar uma sólida estrutura do protocolo *HTTP*, a Web começou exponencialmente a ser aceite e maleada ás necessidades dos seus utilizadores.
+Revolucionando a maneira como o ser humano passou a comunicar, o surgimento das redes por *IP* e a massiva adaptação do protocolo *TCP* para suportar uma sólida estrutura do protocolo *HTTP*, a Web começou exponencialmente a ser aceite e moldada ás necessidades dos seus utilizadores.
 
 {: .text-justify}
-Apesar de mais complicados (e inevitávelmente mais primitivos em comparação com as alterantaivas atuais), os métodos usados para  criação de páginas nesta rede começaram desde logo a evoluir, dando inicio ao surgimento de  alternativas para os simplificar e criar.
+Apesar de mais complicados (e inevitavelmente mais primitivos em comparação com as alternativas atuais), os métodos usados para  criação de páginas nesta rede começaram desde logo a evoluir, dando inicio ao surgimento de  alternativas para os simplificar e criar.
 
 {: .text-justify}
 Devido aos vastos avanços que surgiram ao longo da história destas plataformas, surgiram possibilidades que permitiam a qualquer pessoa interessada (mesmo não tendo historial técnico), de construir o seu próprio site. Tais soluções são estas como o [WordPress](https://wordpress.com/), [Drupal](https://www.drupal.org/) ou outras plataformas na Web de "[Content Management](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo)" que permitem a criação deste tipo de páginas.
@@ -69,7 +70,7 @@ Esta solução é excelente para qualquer um que pretenda criar uma página de I
 <br/>
 
 *Sites Estaticos*
-: Estes são páginas Web que são devolvidas ao utilizador tal como são escritas/armazenadas. Distinguem-se dos sites dinâmicos que geram conteúdo á medida que ações são exercidas na página/aplicação.  
+: Estes são páginas Web que são devolvidas ao utilizador tal como são escritas/armazenadas. Distinguem-se dos sites dinâmicos que geram conteúdo à medida que ações são exercidas na página/aplicação.  
 
 <br/>
 
@@ -79,7 +80,7 @@ Outra vantagem inerente, é o fato que este tipo de ferramentas permitem de form
 Existem ainda outras soluções como o *Jekyll*, que servem exatamente o mesmo propósito, sendo dignos de destacar o [HuGo](https://gohugo.io/) e o [Gatsby](https://www.gatsbyjs.org/), contudo existem inúmeros outros e felizmente a grande maioria são projetos *Open-Source*.
 
 {: .text-justify}
-Apesar de indiscutivelmente muitos outros cumprirem esta mesma função de forma efeciente, o jekyll tem a idade do seu lado, sendo uma solução mais antiga já foi masi fortemente reforçada através de inumeras comtribuições de diferentes partes do mundo.
+Apesar de indiscutivelmente muitos outros cumprirem esta mesma função de forma eficiente, o jekyll tem a idade do seu lado, sendo uma solução mais antiga já foi mais fortemente reforçada através de inúmeras contribuições de diferentes partes do mundo.
 
 <br/>
 
