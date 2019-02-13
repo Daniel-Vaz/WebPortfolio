@@ -41,7 +41,7 @@ Dado o aumento do interesse neste script pelos respetivo colegas de curso, este 
 <br/>
 
 {: .text-center}
-# Desenvolvimento da Solução
+# Desenvolvimento Base do Script
 
 
 {% include figure image_path="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*7EUX9QIjq2x1JyFKcjhXsA.png&f=1"%}

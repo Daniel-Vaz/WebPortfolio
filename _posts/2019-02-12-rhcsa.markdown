@@ -46,7 +46,7 @@ Passando por esta perspetiva, decidi começar a estruturar a minha própria docu
 <br/>
 
 {: .text-center}
-# A minha Documentação
+# O meu Arquivo de Dados
 
 <br/>
 
@@ -79,7 +79,7 @@ Outro pormenor que se destaca no GitBook é a sua fácil personalização de con
 <br/>
 
 {: .text-center}
-# Conclusão
+# Em Resumo
 
 <br/>
 
