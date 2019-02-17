@@ -33,7 +33,7 @@ Apesar de mais complicados (e inevitavelmente mais primitivos em comparação co
 Devido aos vastos avanços que surgiram ao longo da história destas plataformas, surgiram possibilidades que permitiam a qualquer pessoa interessada (mesmo não tendo historial técnico), de construir o seu próprio site. Tais soluções são estas como o [WordPress](https://wordpress.com/), [Drupal](https://www.drupal.org/) ou outras plataformas na Web de "[Content Management](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo)" que permitem a criação deste tipo de páginas.
 
 {: .text-justify}
-No meu caso em particular, sempre houve a necessidade de ter um espaço onde pode-se partilhar todos os projetos em que iria participando, contudo apenas colocar o código num GitHub/GitLab ou outro qualquer sistema de versionamento semelhante, não era suficiente pois sentia sempre a necessidade de expor mais informação sobre os mesmos para que qualquer um pode-se verificar/interpretar/criticar esses mesmos projetos.
+No meu caso em particular, sempre houve a necessidade de ter um espaço onde pudesse partilhar todos os projetos em que iria participando, contudo apenas colocar o código num GitHub/GitLab ou outro qualquer sistema de versionamento semelhante, não era suficiente pois sentia sempre a necessidade de expor mais informação sobre os mesmos para que qualquer um pudesse verificar/interpretar/criticar esses mesmos projetos.
 
 {: .text-justify}
 Porem ao mesmo tempo estava consciente que seria em grande parte desnecessário o trabalho em torno da criação completa de um web-site de raiz, (mais os custos associados para o Hosting do mesmo) apenas para expor alguns dos meus projetos pessoais. Era apenas desnecessário.

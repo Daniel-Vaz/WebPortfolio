@@ -3,7 +3,7 @@ layout: single
 title:  "Script NotasCrawler"
 date:   2019-02-05 15:35:00
 categories: [projetos]
-excerpt: 'Como simples scripts de Python permitem-nos resolver as tarefas mais "chatas"'
+excerpt: 'Como simples scripts de Python permitem-nos resolver as tarefas mais "chatas".'
 header:
   image: "https://media.giphy.com/media/8PvAjFc4OVR79lQBoJ/giphy.gif"
   teaser: "https://media.giphy.com/media/8PvAjFc4OVR79lQBoJ/giphy.gif"
@@ -18,7 +18,7 @@ header:
 <br />
 
 {: .text-justify}
-No dia a dia, deparamos-nos inúmeras vezes com a realidade de sistematicamente consultarmos um determinado site várias vezes apenas para verificarmos se alguma coisa mudou no seu conteúdo. Quer seja em Web-Stores de roupas ou carros, ou até páginas de noticias ou redes sociais, todos nós já passamos por esta situação.
+No dia a dia, deparamo-nos inúmeras vezes com a realidade de sistematicamente consultarmos um determinado site várias vezes apenas para verificarmos se alguma coisa mudou no seu conteúdo. Quer seja em Web-Stores de roupas ou carros, ou até páginas de noticias ou redes sociais, todos nós já passamos por esta situação.
 
 {: .text-justify}
 No meu caso o que mais me aborrecia na minha vida de estudante, era a necessidade de ter de efetuar sempre os mesmos passos para puder consultar as minhas notas online, sendo que certo dia fartei de ter de fazer sempre este mesmo processo:

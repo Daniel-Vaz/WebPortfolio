@@ -3,7 +3,7 @@ layout: single
 title:  "Documentação para o RHCSA7"
 date:   2019-02-04 10:00:00
 categories: [projetos]
-excerpt: 'Partilha de conhecimentos em Português, para um dos certificados mais procurados em Administração de Sistemas'
+excerpt: 'Partilha de conhecimentos em Português, para um dos certificados mais procurados em Administração de Sistemas.'
 header:
   image: /assets/thumb_book.jpg
   show_overlay_excerpt: false
@@ -32,13 +32,13 @@ Desenvolvido e sustentado pela gigante Red Hat, este exame prepara qualquer prof
 <br/>
 
 {: .text-center}
-> As habilidades testadas neste exame são a base de administração do sistema em todos os produtos Red Hat. Uma certificação RHCSA é obtida quando um profissional de TI demonstra as principais habilidades de administração de sistemas exigidas em ambientes do Red Hat Enterprise Linux.
+> "As habilidades testadas neste exame são a base de administração do sistema em todos os produtos Red Hat. Uma certificação RHCSA é obtida quando um profissional de TI demonstra as principais habilidades de administração de sistemas exigidas em ambientes do Red Hat Enterprise Linux."
 <cite>Red Hat</cite>
 
 <br/>
 
 {: .text-justify}
-Tendo eu um vasto interesse nesta mesma área ingressei eu próprio nesta mesma certificação, de forma a solidificar todos os meus conhecimentos na vertente Linux.
+Tendo eu um vasto interesse nesta mesma área ingressei nesta mesma certificação, de forma a solidificar todos os meus conhecimentos na vertente Linux.
 
 {: .text-justify}
 Rapidamente comecei a deparar-me com alguns desfasados e incompletos recursos online de apoio ao estudo para este certificado, contudo poucos eram aqueles que continham informação pertinente e muitos menos eram aqueles que estavam em português.

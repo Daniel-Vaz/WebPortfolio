@@ -25,7 +25,7 @@ Estudante/Trabalhador tenho um máximo interesse em todos as vertentes nas área
 <br/>
 
 {: .text-center}
-## Porque?
+## Porquê?
 
 {: .text-justify}
 Tal como pode ser calculado de partida, e tendo em conta que a minha área de experiência não é [UX](https://pt.wikipedia.org/wiki/Experi%C3%AAncia_do_usu%C3%A1rio)/[UI](https://en.wikipedia.org/wiki/User_interface) o objetivo deste blog não é demonstrar as minhas capacidades de programador Web nem design.
