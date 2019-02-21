@@ -11,8 +11,6 @@ Um simples site estático contruido com [Jekyll](https://jekyllrb.com/) e servid
 
 Esta solução surge da minha necessidade, em torno de ter uma plataforma onde pude-se documentar todos os projetos técnicos em que participo. [Aqui](https://vazprojetos.tk/) pode-se ler e avaliar a minha prespetiva lógica em torno das diferentes concepções técnicas que vou desenvolvendo.
 
-![](https://media.giphy.com/media/55cTEgOSm6A2sVj41L/source.gif)
-
 # Ferramentas utilizadas:
 
 * [Jekyll](https://jekyllrb.com/) - Para transformar todos os Post's e código no próprio Web-site escrito em HTML/CSS/Javascript;
