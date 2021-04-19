@@ -9,7 +9,7 @@
 
 Um simples site estático contruido com [Jekyll](https://jekyllrb.com/) e servido através das [GitHub Pages](https://pages.github.com/).
 
-Esta solução surge da minha necessidade, em torno de ter uma plataforma onde pude-se documentar todos os projetos técnicos em que participo. [Aqui](https://vazprojetos.tk/) pode-se ler e avaliar a minha prespetiva lógica em torno das diferentes concepções técnicas que vou desenvolvendo.
+Esta solução surge da minha necessidade, em torno de ter uma plataforma onde pude-se documentar todos os projetos técnicos em que participo. Aqui pode-se ler e avaliar a minha prespetiva lógica em torno das diferentes concepções técnicas que vou desenvolvendo.
 
 # Ferramentas utilizadas:
 
